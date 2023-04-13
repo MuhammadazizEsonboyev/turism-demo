@@ -1,9 +1,10 @@
 import React from 'react'
+import Cards from './components/Cards/Cards'
 
 export default function App() {
   return (
     <>
-      <h1>Hello world </h1>
+        <Cards/>
     </>
   )
 }
