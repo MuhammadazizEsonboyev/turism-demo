@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.chex {
+    margin-top: 40px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #838383;
+    margin-bottom: 20px;
+}
+
+.card1 {
+    text-align: center;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+    width: 350px;
+    height: 407px;
+}
+.picture{
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+.stek{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+color: #1C1C27;
+}
