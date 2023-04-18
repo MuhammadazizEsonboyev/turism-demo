@@ -1,0 +1,64 @@
+.cardsecction {
+    height: 407px;
+    width: 350px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+}
+
+.cardimg {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 55px;
+}
+
+.n1 {
+    color: #FFA542;
+}
+
+.cardse {
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+}
+
+.n {
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    text-decoration-line: line-through;
+    color: #FFCE7F;
+}
+
+.applesection {
+    margin-left: 22px;
+}
+
+.vektor {
+    margin-left: 22px;
+}
+
+.cardright {
+    margin-right: 22px;
+}
+
+.cardb {
+    display: flex;
+}
+
+.num {
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 21px;
+    color: #838383;
+    padding-top: 5px;
+    margin-left: 10px;
+}
+
+.naush {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #838383;
+    margin-top:  50px !important;
+}
