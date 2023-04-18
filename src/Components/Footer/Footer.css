@@ -1,0 +1,69 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer{
+    margin-top: 60px;
+}
+
+.izb {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+    color: #000000;
+    padding-top: -5px;
+    cursor: pointer;
+}
+
+.qp {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #101010;
+    cursor: pointer;
+}
+
+.kz {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #101010;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.rus {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFA542;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.big {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 35px;
+}
+
+.fa-brands {
+    margin-left: 20px;
+}
+
+.me {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 30px 30px 0px 0px;
+    padding-top: 20px;
+}
+
+.fa-2x{
+    cursor: pointer;
+}
