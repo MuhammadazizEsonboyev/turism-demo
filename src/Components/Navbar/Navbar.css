@@ -23,13 +23,58 @@ body {
     background: #EAEAEA;
 }
 
+nav {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 22px;
+}
+
 .QPICK {
     font-weight: 700;
     font-size: 25px;
     color: #101010;
+    cursor: pointer;
 }
 
 .mobile-phone-icon {
     color: #838383;
     font-size: 20px;
+    margin-right: 15px;
+}
+
+.phone-text {
+    margin: 0;
+}
+
+.icons {
+    font-size: 20px;
+    color: #838383;
+    position: relative;
+    top: -1px;
+    left: -10px;
+}
+
+.fa-heart {
+    top: -2px;
+}
+
+rt {
+    background-color: #ffa542;
+    height: 17px;
+    font-weight: 500;
+    font-size: 15px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 17px;
+    border-radius: 100%;
+    margin-left: 25px;
+}
+
+.icon {
+    margin-left: 34px;
+    cursor: pointer;
 }
